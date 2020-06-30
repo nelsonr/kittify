@@ -1,6 +1,6 @@
 # What's This?
 
-This is a simple example of how to create an Web Extension for modern browsers.
+A simple example of how to create an Web Extension for modern browsers.
 
 This extension will replace (almost) all images on a web page with images of kittens, using the https://placekitten.com web service.
 
